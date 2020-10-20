@@ -1,0 +1,17 @@
+label,h1,h3{
+	margin: 20px;
+	display: block;
+	color: #ffffff;
+}
+input{
+	margin-left: 25px;
+}
+img.bg {
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
